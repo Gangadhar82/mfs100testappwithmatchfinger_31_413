@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MFS100FingerprintSensorApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">Second</string>
+
+    <string-array name="MFS100Ver">
+        <item>31</item>
+        <item>41</item>
+    </string-array>
+
+    <string name="title_activity_preference">PreferenceActivity</string>
+
+</resources>

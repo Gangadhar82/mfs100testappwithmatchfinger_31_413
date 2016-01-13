@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gangadhar.g\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Project R&amp;D workspace\mfs100testappwithmatchfinger_31_413\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4e213e3e6f05dd253a1cca1a0bcba8639c47e684.jar" />
+    </item>
+    <item
+        jar="D:\Project R&amp;D workspace\mfs100testappwithmatchfinger_31_413\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="D:\Project R&amp;D workspace\mfs100testappwithmatchfinger_31_413\app\build\intermediates\pre-dexed\debug\classes-e1b377b299befcd71d3cca66ea1ecb45471ccdf0.jar" />
+    </item>
+
+</items>

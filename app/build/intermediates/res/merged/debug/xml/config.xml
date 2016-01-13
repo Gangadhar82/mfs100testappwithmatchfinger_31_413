@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:dialogTitle="MFS100 Version" android:key="MFSVer" android:title="MFS100 Version" android:defaultValue="41" android:entries="@array/MFS100Ver" android:entryValues="@array/MFS100Ver"/>    
+</PreferenceScreen>
+<!-- From: file:/D:/Project%20R&amp;D%20workspace/mfs100testappwithmatchfinger_31_413/app/src/main/res/xml/config.xml -->
